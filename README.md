@@ -1,7 +1,7 @@
 # nyc-311-analysis
 # Analyzing New York City 311 Calls Using Apache Hive
 
-# 📊 NYC 311 Calls Analysis Using Hive
+# NYC 311 Calls Analysis Using Hive
 
 This project analyzes the **New York City 311 service request dataset** using **Apache Hive**, a data warehouse tool built on top of Hadoop. The dataset contains a wide variety of complaints and service requests submitted by residents across New York City.
 
